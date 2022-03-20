@@ -1,0 +1,8 @@
+export enum Screens {
+  BOTTOM = 'BOTTOM',
+  HOME = 'HOME',
+  SEARCH = 'SEARCH',
+  VIDEO = 'VIDEO',
+  PROFILE = 'PROFILE',
+  NOTIFICATION = 'NOTIFICATION',
+}
